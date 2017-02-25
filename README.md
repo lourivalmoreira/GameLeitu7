@@ -1,4 +1,4 @@
-# Juego demostracion de las capacidades del acelerometro - Modulo 4 - Prova Pratica - Lourival Moreira
+# Jogo demostracao das capacidades do acelerometro - Prototipo do Jogo do Leiturito - Lourival Moreira
 
 ## Usage
 
