@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.helloworld" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Jg Leiturito V7</name>
+    <description>
+        Jogo usando as capacidades do acelerometro e biblioteca de jogos Phaser.
+
+    </description>
+    <author email="lourivalmoreira@gmail.com" href="http://www.cefetrio.xpg.com.br">
+        Devscola
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
