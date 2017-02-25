@@ -1,10 +1,10 @@
 {
   "name": "MOOC-game",
   "version": "1.1.0",
-  "description": "Juego demostracion de las capacidades del acelerometro",
+  "description": "Jogo do Leiturito",
   "repository": {
     "type": "git",
-    "url": "git+https:////github.com/devscola/MOOC-game.git"
+    "url": "git+https:////github.com/lourivalmoreira/GameLeitu7.git"
   },
   "keywords": [
     "ecosystem:phonegap",
@@ -12,6 +12,6 @@
     "cordova:template",
     "phonegap:template"
   ],
-  "author": "Devscola",
+  "author": "Lourival Moreira baseado em Devscola (github.com/devscola/MOOC-game.git)",
   "license": "Apache-2.0"
 }
